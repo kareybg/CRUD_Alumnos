@@ -1,0 +1,17 @@
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\CRUD_Alumnos.exe.config
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\CRUD_Alumnos.exe
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\CRUD_Alumnos.pdb
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\MONO.SECURITY.DLL
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\Newtonsoft.Json.dll
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\NPGSQL.DLL
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\NPGSQL.xml
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.Properties.Resources.resources
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.csproj.GenerateResource.Cache
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.exe
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.pdb
+c:\users\brianda.benitez\documents\visual studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\brianda.benitez\Documents\Visual Studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.Vistas.V_Alumnos.resources
+C:\Users\brianda.benitez\Documents\Visual Studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.Vistas.V_Materias.resources
+C:\Users\brianda.benitez\Documents\Visual Studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\obj\Debug\CRUD_Alumnos.Vistas.V_Presentacion.resources
+C:\Users\brianda.benitez\Documents\Visual Studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\RestSharp.dll
+C:\Users\brianda.benitez\Documents\Visual Studio 2015\Projects\CRUD_Alumnos\CRUD_Alumnos\bin\Debug\RestSharp.xml
